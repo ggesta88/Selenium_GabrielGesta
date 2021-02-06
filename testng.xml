@@ -1,0 +1,9 @@
+
+<suite name="prueba_netflix">
+<test name="Netflix - Testng">
+    <classes>
+        <class name="pruebaSelenium.prueba_netflix"></class>
+        <class name="pruebaSelenium.factoryPruebaNetflix"></class>
+    </classes>
+</test>
+</suite>
